@@ -2,7 +2,7 @@
 - Jonatan Bakke https://github.com/JonatanMagnusBakke
 - Jonas Hein - https://github.com/Zenzus
 - Thomas Ebsen - https://github.com/Srax 
-- [Exercise Link](misc/Assignment.pfd)
+- [Exercise Link](misc/Assignment.pdf)
 
 
 ## Setup
