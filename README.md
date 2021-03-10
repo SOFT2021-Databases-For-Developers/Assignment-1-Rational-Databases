@@ -25,7 +25,7 @@ What you'll need:
 ### Joint-table strategy
 **Advantages:**
 * Good for polymorphic relationships
-* Less redundant data in the database.
+* Less redundant data in the database.  
 
 **Disadvantages:**
 * Slower than the other strategy.
@@ -36,7 +36,8 @@ What you'll need:
 * Good overview
 
 **Disadvantages:**
-* poor support for polymorphic relationships
+* poor support for polymorphic relationships  
+
 ### Single-table strategy
 **Advantages:**
 * Simple approach.
@@ -46,8 +47,7 @@ What you'll need:
 **Disadvantages:**
 * High Coupling because everything is in the same table which can affect the other classes.
 * Wasted space in the database.
-* Can become complicated very fast, because everything is in one table.
-
+* Can become complicated very fast, because everything is in one table.  
 
 ## Our strategy
 We chose to use the Joined table strategy because we wanted as little redundant data in the database as possible. And to train ourselves in this strategy. If we didn't want to train in the Joint-table strategy, we would have chosen the Single-table strategy. Because it would have been the clear choice for a small and fast implementation for this type of simple database.
