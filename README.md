@@ -2,7 +2,7 @@
 - Jonatan Bakke https://github.com/JonatanMagnusBakke
 - Jonas Hein - https://github.com/Zenzus
 - Thomas Ebsen - https://github.com/Srax 
-- [Exercise Link](Assignment.pfd)
+- [Exercise Link](misc/Assignment.pfd)
 
 
 ## Setup
@@ -17,3 +17,9 @@ What you'll need:
 3. Run the [VetDB_DesignatedUser.sql](scripts/VetDB_DesignatedUser.sql) script to create the user that we are going to be using in the assignment.
 4. Open the [VetDBProgram](VetDBProgram) project in your ide and run it
 5. Enjoy.
+
+## Design
+We have used the Joint-table Strategy  
+  
+  <br>
+<img src="misc/ERD.png">
